@@ -17,7 +17,7 @@
 <h1>Submitting Assignments</h1>
 <h3>Please submit assignments at least daily</h3>
 <ol>
-  <li>Make sure you're in your master branch in your local repo (type 'git branch' if you need to check)</li>
+  <li>Make sure you're in your master branch in your local repo (type 'git branch' if you need to check or 'git checkout master' to go to it)</li>
   <li>type 'git fetch upstream' (this fetches any new changes on the Coding Dojo repo)</li>
   <li>type 'git rebase upstream/master' (this merges those changes and updates your local repo)</li>
   <li>Create and go to a new branch by typing 'git checkout -b "lastName_date_time"'</li>
