@@ -4,7 +4,7 @@
 <h1>Setup</h1>
 <ol>
   <li>Fork this repo to your personal Github account</li>
-  <li>Clone it from your github account onto your laptop</li>
+  <li>Clone it from your personal github account onto your laptop ***this is important...make sure you're cloning from your own personal account and not where you forked from</li>
   <li>Add this repo as a remote on your laptop by typing "git remote add upstream https://github.com/CodingDojoDallas/webFun_feb_2017.git"</li>
   <li>Create a folder inside of it with your name, ex.  chris_ulanowicz</li>
   <li>Create 2 more folders inside of your named folder called 'Assignments' and 'Algorithms'</li>
